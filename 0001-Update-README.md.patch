@@ -1,0 +1,25 @@
+From f9e5f86e6976867827c2144f38df2ed316445167 Mon Sep 17 00:00:00 2001
+From: RitiClub <Kmitriti@gmail.com>
+Date: Tue, 22 Jul 2025 20:38:29 +0530
+Subject: [PATCH] Update README.md
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 5bce7ff..f9caf2b 100644
+--- a/README.md
++++ b/README.md
+@@ -6,7 +6,7 @@
+ ### 1) Django Basics
+ - Understanding Django flow and integrations
+ - Introduction to ORM
+-- Watch from 34 min to 1hr:46min:  
++- Watch till 34 min then skip to 1hr:46min:  
+   https://youtu.be/OTmQOjsl0eg?si=QUQl0hUi7RVnYqwE
+ 
+ ### 2) ORM Integration and Data Retrieval
+-- 
+2.50.1.windows.1
+
